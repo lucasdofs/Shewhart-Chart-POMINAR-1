@@ -1,6 +1,7 @@
 ############### Author: LUCAS SALES ############
 #Institution:Federal University of Rio Grande do Norte
-#e-mail: ldo-sales@hotmail.com
+#e-mail: lucasofsales@gmail.com  or ldo-sales@hotmail.com
+
 
 
 ################# Functions ###############################
